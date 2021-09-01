@@ -65,7 +65,7 @@ def best_stories():
         print(f"Title: {hacknews_dict['title']}")
         print(f"URL_REAL: {hacknews_dict['url_real']}")
         print(f"Comments: {hacknews_dict['comments']}")
-        print(f"URL Link: {hacknews_dict['link']}")
+        print(f"JSON_URL: {hacknews_dict['link']}")
 
         print('=========================')
         print('=========================')
@@ -104,7 +104,7 @@ def top_stories():
         print(f"Title: {hacknews_dict['title']}")
         print(f"URL_REAL: {hacknews_dict['url_real']}")
         print(f"Comments: {hacknews_dict['comments']}")
-        print(f"URL Link: {hacknews_dict['link']}")
+        print(f"JSON_URL: {hacknews_dict['link']}")
 
         print('=========================')
         print('=========================')
@@ -142,7 +142,7 @@ def new_stories():
         print(f"Title: {hacknews_dict['title']}")
         print(f"URL_REAL: {hacknews_dict['url_real']}")
         print(f"Comments: {hacknews_dict['comments']}")
-        print(f"URL Link: {hacknews_dict['link']}")
+        print(f"JSON_URL: {hacknews_dict['link']}")
 
         print('=========================')
         print('=========================')
