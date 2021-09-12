@@ -18,7 +18,6 @@ def new_stories():
     You want reading BestStories article, type best
     You want reading NewsStories article, type new
     You want reading TopStories article, type top
-
     """)
     
     if best != 'best' and best != 'new' and best != 'top':
